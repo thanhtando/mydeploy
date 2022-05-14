@@ -15,9 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React _ 
+          こんばんは！ドタンタンです。美人は誰でしょか
         </a>
-        <label> こんばんは！ドタンタンです。美人は誰でしょか</label>
+        <p> こんばんは！ドタンタンです。美人は誰でしょか</p>
       </header>
     </div>
   );
