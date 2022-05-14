@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <label> こんばんは！ドタンタンです。美人は誰でしょか</label>
       </header>
     </div>
   );
