@@ -19,6 +19,7 @@ function App() {
           こんばんは！ドタンタンです。美人は誰でしょか
         </a>
         <p> こんばんは！ドタンタンです。美人は誰でしょか</p>
+        <p> toi la tan dep trai</p>
       </header>
     </div>
   );
