@@ -3,14 +3,12 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+    <div>
+        {/* <img src={logo}/> */}
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
@@ -18,9 +16,8 @@ function App() {
           Learn React _ 
           こんばんは！ドタンタンです。美人は誰でしょか
         </a>
-        <p> こんばんは！ドタンタンです。美人は誰でしょか</p>
-        <p> toi la tan dep trai</p>
-      </header>
+        <p style={{position: "absolute"}}> こんばんは！ドタンタンです。美人は誰でしょか</p>
+        <p> toi la tan dep trai la la</p>
     </div>
   );
 }
