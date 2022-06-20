@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Home from './page/home';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           Learn React _ 
           こんばんは！ドタンタンです。美人は誰でしょか
         </a>
+        <Home/>
         <p style={{position: "absolute"}}> こんばんは！ドタンタンです。美人は誰でしょか</p>
         <p> toi la tan dep trai la la</p>
     </div>
