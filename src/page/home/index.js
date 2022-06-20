@@ -4,3 +4,4 @@ const Home = () => {
     <div>tan dep trai</div>
   )
 }
+export default Home;
