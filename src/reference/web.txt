@@ -1,0 +1,14 @@
+//https://dev.to/vcnsiqueira/react-authentication-tutorial-with-firebase-v9-and-firestore-id6
+//https://github.com/gitdagray/react_redux_toolkit
+//https://github.com/sanderdebr/redux-crud-tutorial/tree/master/src/features/users 
+//https://medium.com/exelerate/the-simplest-way-to-combine-react-redux-and-firestore-typescript-353bea49cdbd
+//https://zenn.dev/aono/articles/84964fae727445
+//https://github.com/UTDNebula/planner
+//https://qiita.com/hibohiboo/items/3d0665b9a85342f42264
+//https://github.com/hibohiboo/create-now
+//https://medium.com/exelerate/the-simplest-way-to-combine-react-redux-and-firestore-typescript-353bea49cdbd
+//https://github.com/sherstkov/react-redux-toolkit-app/tree/main/src
+
+// https://reactforyou.com/componentdidupdate-with-react-hooks/
+// https://reactjs.org/docs/hooks-effect.html
+// https://viblo.asia/p/thay-the-cac-life-cycle-method-bang-react-hooks-Ljy5VXAyZra
