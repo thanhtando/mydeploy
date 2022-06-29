@@ -1,0 +1,5 @@
+// router
+npm install react-router-dom
+
+// redux
+npm install redux @reduxjs/toolkit react-redux
