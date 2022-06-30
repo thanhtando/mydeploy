@@ -1,7 +1,7 @@
 
 import { combineReducers, configureStore } from '@reduxjs/toolkit';
 import { logger } from 'redux-logger';
-import { thunk } from 'redux-thunk';
+import thunk from 'redux-thunk';
 
 const RootState = {
 
