@@ -46,3 +46,4 @@ BasicLayout.propTypes = {
   image: PropTypes.string.isRequired,
   children: PropTypes.node.isRequired,
 };
+

@@ -41,7 +41,6 @@ function App() {
   // Change the openConfigurator state
   const handleConfiguratorOpen = () => setOpenConfigurator(dispatch, !openConfigurator);
 
-  
   return(
     // <MeasureRender name="ChildApp">
     <ThemeProvider theme={darkMode?themeDark:themeLight}>

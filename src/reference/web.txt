@@ -12,3 +12,7 @@
 // https://reactforyou.com/componentdidupdate-with-react-hooks/
 // https://reactjs.org/docs/hooks-effect.html
 // https://viblo.asia/p/thay-the-cac-life-cycle-method-bang-react-hooks-Ljy5VXAyZra
+
+//https://nordiccoder.com/blog/meo-va-thu-thuat-vs-code/
+//https://viblo.asia/p/code-nhanh-va-hieu-qua-hon-voi-vscode-tips-tricks-LzD5dJvOZjY
+//https://dynonguyen.com/toi-uu-visual-studio-code-30-extension-visual-code/
