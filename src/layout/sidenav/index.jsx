@@ -1,4 +1,4 @@
-
+import React from "react";
 
 function sidenavLogoLabel(theme, ownerState) {
   const { functions, transitions, typography, breakpoints } = theme;
@@ -410,3 +410,4 @@ const SideNavbarStyle = styled(Drawer)(({theme, ownerState})=>{
     }
   }
 })
+export default SideNavbar;
